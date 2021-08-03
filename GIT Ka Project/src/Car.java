@@ -11,5 +11,6 @@ public class Car {
 	public void mercedes() {
 
 		System.out.println("--------mercedes Benz--------");
+		System.out.println("--------mercedes--------");
 	}
 }
